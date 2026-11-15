@@ -48,8 +48,6 @@ claude plugin install session-hud --marketplace ariadng/claude-mod
 
 In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `ariadng/claude-mod`, then Add plugin.
 
-This repository is private: installing it needs read access to it on GitHub and a git credential for github.com on your machine (an SSH key, or `gh auth login` then `gh auth setup-git`). The install never prompts for one.
-
 ## Requirements and notes
 
 - The pane's icons are Nerd Font glyphs. Use a Nerd Font, or a terminal that draws them itself, such as Ghostty.
