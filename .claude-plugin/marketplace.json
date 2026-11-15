@@ -1,0 +1,5 @@
+{
+  "name": "claude-mod",
+  "owner": { "name": "ariadng" },
+  "plugins": [{ "name": "session-hud", "source": "./" }]
+}

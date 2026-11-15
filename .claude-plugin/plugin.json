@@ -1,0 +1,6 @@
+{
+  "name": "session-hud",
+  "version": "0.1.0",
+  "description": "Status line with account, model, effort, usage limits and context, plus a side pane with this computer, the project, Claude's task list and subagents",
+  "types": "./types/index.d.ts"
+}
